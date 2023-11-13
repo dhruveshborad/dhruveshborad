@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhruveshborad
-- 👀 I’m interested in backend devloping
+- 👀 I’m interested in full stack devloping
 - 🌱 I’m currently learning GUI & backend logic
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
